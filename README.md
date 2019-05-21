@@ -1,4 +1,4 @@
-Project created to study and fix react-native content presented during [Rocketseat Bootcamp](https://rocketseat.com.br/bootcamp).
+Project created to study react-native content presented during [Rocketseat Bootcamp](https://rocketseat.com.br/bootcamp).
 
 **User Stories:**
 
